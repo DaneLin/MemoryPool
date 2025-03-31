@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+/LinPool/LinPool
+*.vs
+/LinPool/x64
